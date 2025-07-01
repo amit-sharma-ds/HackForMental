@@ -1,7 +1,7 @@
 # Astra 🌟  
 A Chrome extension to help you use social media mindfully and build better digital habits.
 
-![Extension](onextension.png)
+![Extension](https://github.com/amit-sharma-ds/HackForMental/blob/main/astra_Img/onextension.png)
 
 ---
 
