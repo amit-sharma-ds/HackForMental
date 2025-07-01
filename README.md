@@ -27,8 +27,8 @@ A Chrome extension to help you use social media mindfully and build better digit
 
 ## 📂 Project Structure  
 
-Astra/
-```├── Astra/ # Chrome extension code
+```Astra/
+├── Astra/ # Chrome extension code
 │ ├── manifest.json
 │ ├── background.js
 │ ├── content.js
@@ -50,7 +50,7 @@ Astra/
 1️⃣ Load `Astra/` in Chrome → Extensions → Load Unpacked.  
 
 2️⃣ Run the backend server:
-```bash
+bash
 cd backend
 npm install
 node server.js
