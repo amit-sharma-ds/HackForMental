@@ -84,3 +84,25 @@ Astra/
 - **SetTimeout / SetInterval** — For timing and checking tab usage  
 - **Z-Index / Positioning Techniques** — For overlay + blur layers  
 
+
+## ⚙️ Quick Setup  
+
+1️⃣ Unzip the project folder.  
+
+2️⃣ Open it in VS Code.  
+
+3️⃣ In terminal:  
+```bash
+cd backend
+npm install
+node server.js
+```
+
+4️⃣ In Chrome:
+
+Go to Extensions → Enable Developer Mode → Load Unpacked → Select the extension folder
+
+5️⃣ Pin the extension icon if you like.
+
+6️⃣ Use the icon to set time limits or view the dashboard.
+
