@@ -27,7 +27,7 @@ A Chrome extension to help you use social media mindfully and build better digit
 
 ## 📂 Project Structure  
 
-Astra/
+"""Astra/
 ├── Astra/ # Chrome extension code
 │ ├── manifest.json
 │ ├── background.js
@@ -40,7 +40,7 @@ Astra/
 ├── backend/ # Node.js backend
 │ ├── server.js
 │ ├── .env
-│ └── package.json
+│ └── package.json"""
 
 
 ---
