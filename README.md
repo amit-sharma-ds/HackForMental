@@ -27,7 +27,8 @@ A Chrome extension to help you use social media mindfully and build better digit
 
 ## 📂 Project Structure  
 
-```Astra/
+```
+Astra/
 ├── Astra/ # Chrome extension code
 │ ├── manifest.json
 │ ├── background.js
@@ -40,23 +41,11 @@ A Chrome extension to help you use social media mindfully and build better digit
 ├── backend/ # Node.js backend
 │ ├── server.js
 │ ├── .env
-│ └── package.json```
+│ └── package.json
+```
 
 
 ---
-
-## ⚙️ Quick Setup  
-
-1️⃣ Load `Astra/` in Chrome → Extensions → Load Unpacked.  
-
-2️⃣ Run the backend server:
-bash
-cd backend
-npm install
-node server.js
-
-3️⃣ Create a .env file in backend/ with:
-GEMINI_API_KEY=your_gemini_api_key_here
 
 ## 🛠 Tech Stack  
 
