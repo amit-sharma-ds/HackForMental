@@ -86,6 +86,13 @@ Astra/
 
 ---
 
+---
+
+### 📊 Charts & Data Visualization
+- **Chart.js** — For rendering interactive charts in the dashboard (visualize usage stats, points, etc.)
+
+---
+
 ### ⚡ Other Tools / Concepts
 - **LocalStorage / Chrome Local Storage** — For saving user points and time limits
 - **setTimeout / setInterval** — For timing and checking tab usage
