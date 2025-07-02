@@ -54,42 +54,42 @@ Astra/
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-### 🚀 Backend  
-- **Node.js + Express** — Backend server to handle AI API requests  
-- **Axios** — Make HTTP requests to Google Gemini API  
-- **CORS** — Handle cross-origin requests from extension to backend  
-- **dotenv** — Load and manage environment variables securely  
-
----
-
-### 💻 Frontend (Extension Logic)  
-- **JavaScript (ES6)** — Main programming language for logic  
-- **Chrome Extension APIs** — 
-  - `chrome.tabs` — Track active and updated tabs  
-  - `chrome.storage` — Store user settings and points  
-  - `chrome.scripting` — Inject content scripts dynamically  
-  - `chrome.runtime` — Messaging between parts of the extension  
+### 🚀 Backend
+- **Node.js + Express** — Backend server to handle AI API requests
+- **Axios** — Make HTTP requests to Google Gemini API
+- **CORS** — Handle cross-origin requests from extension to backend
+- **dotenv** — Load and manage environment variables securely
 
 ---
 
-### 🎨 UI & Styling  
-- **HTML + CSS** — Popup, dashboard, overlay and button styles  
-- **Inline CSS (JS)** — Dynamic styling in content scripts  
-- **DOM Manipulation** — Vanilla JS for building dynamic UI (overlay, blur, popups)  
+### 💻 Frontend (Extension Logic)
+- **JavaScript (ES6)** — Main programming language for logic
+- **Chrome Extension APIs**
+  - `chrome.tabs` — Track active and updated tabs
+  - `chrome.storage` — Store user settings and points
+  - `chrome.scripting` — Inject content scripts dynamically
+  - `chrome.runtime` — Messaging between parts of the extension
 
 ---
 
-### 🌐 External Services / APIs  
-- **Google Gemini API** — Generate short motivational messages  
+### 🎨 UI & Styling
+- **HTML + CSS** — Popup, dashboard, overlay, and button styles
+- **Inline CSS (JS)** — Dynamic styling in content scripts
+- **DOM Manipulation** — Vanilla JS for building dynamic UI (overlay, blur, popups)
 
 ---
 
-### ⚡ Other Tools / Concepts  
-- **LocalStorage / Chrome Local Storage** — For saving user points and time limits  
-- **SetTimeout / SetInterval** — For timing and checking tab usage  
-- **Z-Index / Positioning Techniques** — For overlay + blur layers  
+### 🌐 External Services / APIs
+- **Google Gemini API** — Generate short motivational messages
+
+---
+
+### ⚡ Other Tools / Concepts
+- **LocalStorage / Chrome Local Storage** — For saving user points and time limits
+- **setTimeout / setInterval** — For timing and checking tab usage
+- **z-index / Positioning techniques** — For overlay + blur layers
 
 
 ## ⚙️ Quick Setup  
