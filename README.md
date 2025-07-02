@@ -86,8 +86,6 @@ Astra/
 
 ---
 
----
-
 ### 📊 Charts & Data Visualization
 - **Chart.js** — For rendering interactive charts in the dashboard (visualize usage stats, points, etc.)
 
