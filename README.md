@@ -31,19 +31,24 @@ A Chrome extension to help you use social media mindfully and build better digit
 
 ```
 Astra/
-├── Astra/ # Chrome extension code
-│ ├── manifest.json
-│ ├── background.js
-│ ├── content.js
-│ ├── popup.html
-│ ├── popup.js
-│ ├── dashboard.html
-│ ├── dashboard.js
-│ └── icon.png
-├── backend/ # Node.js backend
-│ ├── server.js
-│ ├── .env
-│ └── package.json
+├── extension/                  # Your Chrome Extension files
+│   ├── manifest.json
+│   ├── background.js
+│   ├── content.js
+│   ├── popup.html
+│   ├── popup.js
+│   ├── dashboard.html
+│   ├── dashboard.js
+│   ├── chart.js
+│   ├── chart1.js
+│   └── icon.png
+│
+├── backend/                    # Node.js backend
+│   ├── server.js
+│   ├── .env
+│   ├── package.json
+│   ├── package-lock.json
+│   └── node_modules/
 ```
 
 
